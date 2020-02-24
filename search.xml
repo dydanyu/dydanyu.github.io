@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>2020年2月15日重新开始blog</title>
+      <link href="/2020/02/15/test/"/>
+      <url>/2020/02/15/test/</url>
+      
+        <content type="html"><![CDATA[<h3 id="今天完成了博客的迁移，重新学习了github的提交代码，SSH秘钥的设置，以及分支的建立。没有练习就会生疏，什么都更没学得一样，还是要经常练手。以后要将此博客作为练手的场所，熟悉git的提交以及其他相关知识。"><a href="#今天完成了博客的迁移，重新学习了github的提交代码，SSH秘钥的设置，以及分支的建立。没有练习就会生疏，什么都更没学得一样，还是要经常练手。以后要将此博客作为练手的场所，熟悉git的提交以及其他相关知识。" class="headerlink" title="今天完成了博客的迁移，重新学习了github的提交代码，SSH秘钥的设置，以及分支的建立。没有练习就会生疏，什么都更没学得一样，还是要经常练手。以后要将此博客作为练手的场所，熟悉git的提交以及其他相关知识。"></a>今天完成了博客的迁移，重新学习了github的提交代码，SSH秘钥的设置，以及分支的建立。没有练习就会生疏，什么都更没学得一样，还是要经常练手。以后要将此博客作为练手的场所，熟悉git的提交以及其他相关知识。</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何使用Markdown语法写博客</title>
+      <link href="/2019/07/10/20190710myFirstBlog/"/>
+      <url>/2019/07/10/20190710myFirstBlog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo-新建文章指令"><a href="#Hexo-新建文章指令" class="headerlink" title="Hexo 新建文章指令"></a>Hexo 新建文章指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$hexo</span> new post <span class="string">"blogname"</span> //四个空格+code即为代码行  </span><br><span class="line"></span><br><span class="line"><span class="variable">$hexo</span> clean  //清除静态页面缓存</span><br><span class="line"><span class="variable">$hexo</span> g  //在本地生成静态页面</span><br><span class="line"><span class="variable">$hexo</span> s  //在本地服务器中预览</span><br><span class="line"><span class="variable">$hexo</span> d  //远程部署到Github</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    <span class="built_in">window</span>.onload=<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">          <span class="keyword">var</span> btn=<span class="built_in">document</span>.getElementById(<span class="string">"btn"</span>);</span><br><span class="line">          btn.onclick=<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">              alert(<span class="string">"点我一下"</span>);</span><br><span class="line">          &#125;;  </span><br><span class="line">    &#125;;</span><br><span class="line">&lt;<span class="regexp">/script&gt;  /</span><span class="regexp">/反引号··· code  ····之间可以放多行代码</span></span><br></pre></td></tr></table></figure><blockquote><p>测试   // &gt; 表示引用，双空格加回车可以换行</p></blockquote><ul><li>123 //- 表示列表</li><li>345<br><em>斜体</em> //* *</li></ul><a id="more"></a>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Makdown </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
